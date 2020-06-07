@@ -1,0 +1,8 @@
+com\itheima\Application.class
+com\itheima\domain\User.class
+com\itheima\service\UserService.class
+com\itheima\service\impl\UserServiceImpl.class
+com\itheima\controller\UserController.class
+com\itheima\mapper\UserMapper.class
+com\itheima\shiro\ShiroConfig.class
+com\itheima\shiro\UserRealm.class
